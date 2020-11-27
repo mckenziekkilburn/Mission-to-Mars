@@ -126,7 +126,7 @@ def hemisphere(browser):
     return hemisphere_image_urls
 
 
-    print(scrape_all())
+print(scrape_all())
 
 
 
